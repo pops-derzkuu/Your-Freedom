@@ -210,4 +210,4 @@ Your Freedom is available as a complete free version, providing all features and
 Take control of your internet experience today! Download Your Freedom for free and enjoy unrestricted access to the web.
 
 ---
-**Last updated:** 2026-10-18 14:13:36 UTC
+**Last updated:** 2026-10-18 17:43:30 UTC
